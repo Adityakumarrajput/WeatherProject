@@ -16,11 +16,11 @@ It uses HTML, CSS, and JavaScript to create a responsive and user-friendly inter
 
 Features
 
-- 🔎 Search weather by city name
-- 📡 Fetch real-time temperature and weather conditions
-- 💬 Display helpful messages like “Loading...” during fetch
-- 🎨 Clean and responsive UI design
-- 🌐 API integration using JavaScript (e.g., OpenWeatherMap)
+-  Search weather by city name
+-  Fetch real-time temperature and weather conditions
+-  Display helpful messages like “Loading...” during fetch
+-  Clean and responsive UI design
+-  API integration using JavaScript (e.g., OpenWeatherMap)
 
 - 
 ###Future Improvements
